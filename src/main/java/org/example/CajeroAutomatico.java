@@ -44,7 +44,7 @@ public class CajeroAutomatico {
                         System.out.println("Clave incorrecta. Intentos restantes: " + (intentosMaximos - intentos));
                     } else {
                         // Mostrar mensaje de tarjeta bloqueada y salir del programa
-                        System.out.println("#############3");
+                        //System.out.println("#############3");
                         System.out.println("Tarjeta bloqueada");
                         break;
                     }
