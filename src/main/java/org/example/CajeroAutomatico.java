@@ -45,7 +45,7 @@ public class CajeroAutomatico {
                     } else {
                         // Mostrar mensaje de tarjeta bloqueada y salir del programa
                         //System.out.println("#############3");
-                        System.out.println("Tarjeta bloqueada");
+                        System.out.println("Tarjeta bloqueada, tendra que acercarse a ventanilla para recuperarla");
                         break;
                     }
                 }
